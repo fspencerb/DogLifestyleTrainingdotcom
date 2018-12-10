@@ -1,2 +1,0 @@
-# DogLifestyleTrainingdotcom
-Dog-Training-site
